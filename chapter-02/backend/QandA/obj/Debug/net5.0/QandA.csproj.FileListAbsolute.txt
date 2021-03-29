@@ -27,3 +27,32 @@ C:\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debu
 C:\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\ref\QandA.dll
 C:\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.pdb
 C:\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.genruntimeconfig.cache
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\appsettings.json
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\QandA.exe
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\QandA.deps.json
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\QandA.runtimeconfig.json
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\QandA.runtimeconfig.dev.json
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\QandA.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\ref\QandA.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\QandA.pdb
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.csprojAssemblyReference.cache
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.AssemblyInfo.cs
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\staticwebassets\QandA.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\staticwebassets\QandA.StaticWebAssets.xml
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\scopedcss\bundle\QandA.styles.css
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.csproj.CopyComplete
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\ref\QandA.dll
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.pdb
+C:\Users\Jonathan\Google Drive\Code\git\ASP.NET-Core-5-and-React-Second-Edition\chapter-02\backend\QandA\obj\Debug\net5.0\QandA.genruntimeconfig.cache
